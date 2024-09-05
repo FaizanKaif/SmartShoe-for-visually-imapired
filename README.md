@@ -1,0 +1,1 @@
+# SmartShoe-for-visually-imapired
