@@ -1,6 +1,8 @@
 # SmartShoe-for-visually-imapired
 
 **ABSTRACT**
+
+
 The development of smart shoes for blind people, which are equipped with
 advanced sensors, alerting technology to help the visually impaired navigate their
 surroundings. The shoes use machine learning algorithms to detect and recognize
